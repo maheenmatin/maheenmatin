@@ -4,7 +4,7 @@
 💼 Interested in **Software Engineering, FinTech and Data**  
 🌍 Based in London, UK  
 
-⚡**Tech I'm comfortable with**
+**Tech I'm comfortable with...**
 - **Languages**: Python, Java, TypeScript, SQL
 - **Web Frameworks**: React, Next.js, Spring Boot, Tailwind
 - **Developer Tools**: Git, GitHub Actions, Docker, Figma
