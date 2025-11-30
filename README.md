@@ -14,7 +14,7 @@
 ## Highlighted projects
 
 ### 🧮 CRTSolver
-Novel heuristic **Python** algorithm (cvc5 backend) leveraging the Chinese Remainder Theorem to solve non-linear integer problems. Achieves 7.4x speedup over baseline cvc5! Currently the subject of an extended abstract paper...
+Novel heuristic **Python** algorithm (cvc5 backend) leveraging the Chinese Remainder Theorem to solve non-linear integer problems. Achieves 13.2x speedup over baseline cvc5! Currently the subject of an extended abstract paper...
 
 👉 [Repository](https://github.com/maheenmatin/CRTSolver)
 
