@@ -4,13 +4,13 @@
 💼 Interested in **Software Engineering, FinTech and Data**  
 🌍 Based in London, UK  
 
-**Languages**: TypeScript/JavaScript, Java, Python, SQL, HTML/CSS, R
-**Frontend & Backend**: Angular, React, Next.js, Spring Boot
-**Data/ORM**: PostgreSQL, Pandas, Prisma, Hibernate
-**Testing**: Jest, JUnit, Mockito
-**DevOps & Cloud**: Docker, Git, GitHub Actions, Azure, Nginx
-**Business Analysis**: Power BI, Excel, Python, SQL
-**Certifications**: GCP Digital Leader
+- **Languages**: TypeScript/JavaScript, Java, Python, SQL, HTML/CSS, R
+- **Frontend & Backend**: Angular, React, Next.js, Spring Boot
+- **Data/ORM**: PostgreSQL, Pandas, Prisma, Hibernate
+- **Testing**: Jest, JUnit, Mockito
+- **DevOps & Cloud**: Docker, Git, GitHub Actions, Azure, Nginx
+- **Business Analysis**: Power BI, Excel, Python, SQL
+- **Certifications**: GCP Digital Leader
 
 ---
 
