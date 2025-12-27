@@ -1,7 +1,7 @@
 # Hi, I'm Maheen 👋
 
 🎓 MSc Software Systems Engineering @ UCL  
-💼 Interested in **Software Engineering, FinTech and Data**  
+💼 Interested in **Full-Stack Development, FinTech and Analytics**  
 🌍 Based in London, UK  
 
 - **Languages**: TypeScript/JavaScript, Java, Python, SQL, HTML/CSS, R
