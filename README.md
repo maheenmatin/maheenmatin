@@ -1,16 +1,22 @@
 # Hi, I'm Maheen 👋
 
 🎓 MSc Software Systems Engineering @ UCL  
-💼 Interested in **Full-Stack Development, FinTech and Analytics**  
+💼 Interested in **Full-Stack, FinTech and Analytics**  
 🌍 Based in London, UK  
 
 - **Languages**: TypeScript/JavaScript, Java, Python, SQL, HTML/CSS, R
 - **Frontend & Backend**: Angular, React, Next.js, Spring Boot
 - **Data/ORM**: PostgreSQL, Pandas, Prisma, Hibernate
+- **ML/AI**: Scikit-learn, NumPy, Jupyter, supervised learning
 - **Testing**: Jest, JUnit, Mockito
 - **DevOps & Cloud**: Docker, Git, GitHub Actions, Azure, Nginx
-- **Business Analysis**: Power BI, Excel, Python, SQL
-- **Certifications**: GCP Digital Leader
+- **BI & Reporting**: Power BI, Excel, Python, SQL
+- **Certifications**: GCP Digital Leader, Microsoft Data Analyst PL-300 (in-progress)
+
+### Deployed sites 🚀
+- maheenmatin.com
+- postit-app.com
+- roompilot-app.com
 
 ---
 
